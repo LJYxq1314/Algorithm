@@ -19,10 +19,6 @@ int bubbleSort(int *pArray, int arrayLen)
     return ret;
 }
 
-int chooseSort(int *pArray, int arrayLen)
-{
-    
-}
 int main(int argc, char const *argv[])
 {
     int Array[] = {5,3,7,9,2,4,1};
